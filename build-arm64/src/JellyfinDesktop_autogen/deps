@@ -1,0 +1,13 @@
+JellyfinDesktop_autogen/timestamp: \
+	/home/maxime/jellyfin-desktop/CMakeModules/CompleteBundle.cmake \
+	/home/maxime/jellyfin-desktop/build-arm64/src/qrc_resources.cpp \
+	/home/maxime/jellyfin-desktop/src/CMakeLists.txt \
+	/home/maxime/jellyfin-desktop/src/main.cpp \
+	/usr/lib/aarch64-linux-gnu/cmake/Qt6Core/Qt6CoreConfigureFileTemplate.in \
+	/usr/lib/aarch64-linux-gnu/cmake/Qt6Qml/Qt6QmlModuleDirMappingTemplate.qrc.in \
+	/usr/lib/aarch64-linux-gnu/cmake/Qt6Qml/Qt6qmldirTemplate.cmake.in \
+	/usr/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake \
+	/usr/share/cmake-3.31/Modules/FindPackageMessage.cmake \
+	/usr/share/cmake-3.31/Modules/FindZLIB.cmake \
+	/usr/share/cmake-3.31/Modules/SelectLibraryConfigurations.cmake \
+	/usr/bin/cmake

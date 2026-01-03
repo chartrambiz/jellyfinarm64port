@@ -69,6 +69,10 @@ elseif(WIN32)
   include(Win32Configuration)
 elseif(UNIX AND (NOT APPLE))
   include(LinuxConfiguration)
+  # Check for ARM64 and apply specific configuration
+  if(CMAKE_SYSTEM_PROCESSOR STREQUAL "aarch64" OR CMAKE_SYSTEM_PROCESSOR STREQUAL "arm64")
+    include(LinuxARM64Configuration)
+  endif()
 endif(APPLE)
 
 if (Qt6_POSITION_INDEPENDENT_CODE)

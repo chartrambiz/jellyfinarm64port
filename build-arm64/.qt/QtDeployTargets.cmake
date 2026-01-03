@@ -1,0 +1,8 @@
+set(__QT_DEPLOY_TARGET_shared_FILE /home/maxime/jellyfin-desktop/build-arm64/src/shared/libshared.a)
+set(__QT_DEPLOY_TARGET_shared_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_jmp_core_FILE /home/maxime/jellyfin-desktop/build-arm64/src/libjmp_core.a)
+set(__QT_DEPLOY_TARGET_jmp_core_TYPE STATIC_LIBRARY)
+set(__QT_DEPLOY_TARGET_JellyfinDesktop_FILE /home/maxime/jellyfin-desktop/build-arm64/src/jellyfin-desktop)
+set(__QT_DEPLOY_TARGET_JellyfinDesktop_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_test_systemcomponent_FILE /home/maxime/jellyfin-desktop/build-arm64/tests/test_systemcomponent)
+set(__QT_DEPLOY_TARGET_test_systemcomponent_TYPE EXECUTABLE)

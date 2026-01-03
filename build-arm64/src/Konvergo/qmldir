@@ -1,0 +1,4 @@
+module Konvergo
+typeinfo JellyfinDesktop.qmltypes
+prefer :/
+

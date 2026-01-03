@@ -1,0 +1,12 @@
+-I
+/home/maxime/jellyfin-desktop/build-arm64/src
+-I
+/usr/lib/aarch64-linux-gnu/qt6/qml
+--resource
+/home/maxime/jellyfin-desktop/build-arm64/src/.qt/rcc/qmake_Konvergo.qrc
+--resource
+/home/maxime/jellyfin-desktop/build-arm64/src/.qt/rcc/qmake_Konvergo_copy.qrc
+--resource
+/home/maxime/jellyfin-desktop/build-arm64/src/.qt/rcc/JellyfinDesktop_raw_qml_0.qrc
+--module
+Konvergo

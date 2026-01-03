@@ -1,0 +1,2 @@
+/usr/bin/ar qc libshared.a CMakeFiles/shared.dir/shared_autogen/mocs_compilation.cpp.o CMakeFiles/shared.dir/Paths.cpp.o CMakeFiles/shared.dir/LocalJsonClient.cpp.o CMakeFiles/shared.dir/LocalJsonServer.cpp.o CMakeFiles/shared.dir/__/core/Version.cpp.o CMakeFiles/shared.dir/Names.cpp.o
+/usr/bin/ranlib libshared.a

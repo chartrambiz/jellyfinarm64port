@@ -1,0 +1,43 @@
+file(REMOVE_RECURSE
+  ".qt/rcc/qrc_JellyfinDesktop_raw_qml_0.cpp"
+  ".qt/rcc/qrc_qmake_Konvergo.cpp"
+  ".qt/rcc/qrc_qmake_Konvergo_copy.cpp"
+  ".rcc/qmlcache/JellyfinDesktop_qmlcache_loader.cpp"
+  ".rcc/qmlcache/JellyfinDesktop_ui/webview_qml.cpp"
+  ".rcc/qmlcache/JellyfinDesktop_ui/webview_qml.cpp.aotstats"
+  "CMakeFiles/JellyfinDesktop.dir/link.d"
+  "CMakeFiles/JellyfinDesktop_autogen.dir/AutogenUsed.txt"
+  "CMakeFiles/JellyfinDesktop_autogen.dir/ParseCache.txt"
+  "JellyfinDesktop_autogen"
+  "CMakeFiles/JellyfinDesktop.dir/.qt/rcc/qrc_JellyfinDesktop_raw_qml_0.cpp.o"
+  "CMakeFiles/JellyfinDesktop.dir/.qt/rcc/qrc_JellyfinDesktop_raw_qml_0.cpp.o.d"
+  "CMakeFiles/JellyfinDesktop.dir/.qt/rcc/qrc_qmake_Konvergo.cpp.o"
+  "CMakeFiles/JellyfinDesktop.dir/.qt/rcc/qrc_qmake_Konvergo.cpp.o.d"
+  "CMakeFiles/JellyfinDesktop.dir/.qt/rcc/qrc_qmake_Konvergo_copy.cpp.o"
+  "CMakeFiles/JellyfinDesktop.dir/.qt/rcc/qrc_qmake_Konvergo_copy.cpp.o.d"
+  "CMakeFiles/JellyfinDesktop.dir/.rcc/qmlcache/JellyfinDesktop_qmlcache_loader.cpp.o"
+  "CMakeFiles/JellyfinDesktop.dir/.rcc/qmlcache/JellyfinDesktop_qmlcache_loader.cpp.o.d"
+  "CMakeFiles/JellyfinDesktop.dir/.rcc/qmlcache/JellyfinDesktop_ui/webview_qml.cpp.o"
+  "CMakeFiles/JellyfinDesktop.dir/.rcc/qmlcache/JellyfinDesktop_ui/webview_qml.cpp.o.d"
+  "CMakeFiles/JellyfinDesktop.dir/JellyfinDesktop_autogen/mocs_compilation.cpp.o"
+  "CMakeFiles/JellyfinDesktop.dir/JellyfinDesktop_autogen/mocs_compilation.cpp.o.d"
+  "CMakeFiles/JellyfinDesktop.dir/jellyfindesktop_qmltyperegistrations.cpp.o"
+  "CMakeFiles/JellyfinDesktop.dir/jellyfindesktop_qmltyperegistrations.cpp.o.d"
+  "CMakeFiles/JellyfinDesktop.dir/main.cpp.o"
+  "CMakeFiles/JellyfinDesktop.dir/main.cpp.o.d"
+  "CMakeFiles/JellyfinDesktop.dir/qrc_resources.cpp.o"
+  "CMakeFiles/JellyfinDesktop.dir/qrc_resources.cpp.o.d"
+  "Konvergo/JellyfinDesktop.qmltypes"
+  "jellyfin-desktop"
+  "jellyfin-desktop.pdb"
+  "jellyfindesktop_qmltyperegistrations.cpp"
+  "meta_types/JellyfinDesktop_json_file_list.txt"
+  "meta_types/JellyfinDesktop_json_file_list.txt.timestamp"
+  "meta_types/qt6jellyfindesktop_release_metatypes.json"
+  "meta_types/qt6jellyfindesktop_release_metatypes.json.gen"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/JellyfinDesktop.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

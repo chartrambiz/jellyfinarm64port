@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/">
+    <file alias="/">/home/maxime/jellyfin-desktop/build-arm64/src/Konvergo</file>
+
+  </qresource>
+</RCC>
